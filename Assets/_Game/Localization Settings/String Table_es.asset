@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Table_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 2457ca6c80c4faf4b91d4179b68aed87, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 136232259584
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19002394587136
+    m_Localized: "\xC1rea de refrigeraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21080464117760
+    m_Localized: "\xC1rea de estanter\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379152801943552
+    m_Localized: "\xA1Art\xEDculo incorrecto!\nInt\xE9ntalo de nuevo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379559112560640
+    m_Localized: "\xA1Todos los art\xEDculos colocados\n\xA1Buen trabajo!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675786660204544
+    m_Localized: "\xA1Coloca los art\xEDculos correctos en los estantes!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061632151552
+    m_Localized: Manzana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540160
+    m_Localized: Refresco de manzana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540161
+    m_Localized: "K\xE9tchup"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540162
+    m_Localized: Mostaza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540163
+    m_Localized: 'Yogur de fresa
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540164
+    m_Localized: Agua
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540165
+    m_Localized: "Sand\xEDa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540166
+    m_Localized: "Termo de caf\xE9"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540167
+    m_Localized: Tarro de crema
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540168
+    m_Localized: Lata de comida
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540169
+    m_Localized: 'Botella de gimnasio
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540170
+    m_Localized: "Rollo de papel higi\xE9nico\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540171
+    m_Localized: Mermelada
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

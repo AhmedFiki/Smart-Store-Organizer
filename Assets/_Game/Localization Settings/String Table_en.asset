@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: String Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 2457ca6c80c4faf4b91d4179b68aed87, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 136232259584
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19002394587136
+    m_Localized: Cooler Area
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21080464117760
+    m_Localized: Shelf Area
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379152801943552
+    m_Localized: "Incorrect Item! \nTry Again."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 379559112560640
+    m_Localized: "All Items placed, \nGreat Job!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675786660204544
+    m_Localized: Place correct items on shelves!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061632151552
+    m_Localized: Apple
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540160
+    m_Localized: Apple Cola
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540161
+    m_Localized: Ketchup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540162
+    m_Localized: Mustard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540163
+    m_Localized: Strawberry Yogurt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540164
+    m_Localized: Water
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540165
+    m_Localized: Watermelon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540166
+    m_Localized: Coffee Flask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540167
+    m_Localized: Cream Jar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540168
+    m_Localized: Food Can
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540169
+    m_Localized: Gym Bottle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540170
+    m_Localized: Toilet Roll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 677061640540171
+    m_Localized: Jam
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
