@@ -4,7 +4,7 @@ A simple drag-and-drop simulation game where players organize store items into t
 
 ---
 
-[Download Smart Store Organizer (Android APK)](./Builds/SmartStoreOrganizer.apk)
+[Download Smart Store Organizer (Android APK)](https://github.com/AhmedFiki/Smart-Store-Organizer/releases/latest/download/SmartStoreOrganizer.apk)
 
 ---
 ## Scene Descriptions
